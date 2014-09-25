@@ -1,0 +1,16 @@
+{
+  "name": "jQuery.mmenu",
+  "version": "4.5.1",
+  "description": "jQuery.mmenu ================",
+  "main": "src/js/umd/jquery.mmenu.umd.all.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ganchenkor/jQuery.mmenu.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganchenkor/jQuery.mmenu/issues"
+  },
+  "homepage": "https://github.com/ganchenkor/jQuery.mmenu"
+}
