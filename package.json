@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/ganchenkor/jQuery.mmenu/issues"
   },
-  "homepage": "https://github.com/ganchenkor/jQuery.mmenu"
+  "homepage": "https://github.com/ganchenkor/jQuery.mmenu",
+  "dependencies": {
+    "jquery": "^2.1.1"
+  }
 }
